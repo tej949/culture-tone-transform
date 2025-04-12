@@ -39,6 +39,12 @@ npm install
 # Add your environment config
 echo "VITE_GEMINI_API_KEY=your_key_here" >> .env
 echo "VITE_GEMINI_ENDPOINT=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" >> .env
+Snapshot
+![Screenshot (235)](https://github.com/user-attachments/assets/066a5a27-9e26-4555-801e-46567a0a3e93)
+before Rewriting of email
+![Screenshot (239)](https://github.com/user-attachments/assets/5efffabc-bc52-4582-8200-441aab590e26)
+after rewriting
+![Screenshot (240)](https://github.com/user-attachments/assets/85577f96-46f0-409a-845d-d3ca193e95c5)
 
 📈 Why It’s Better Than ChatGPT
 Feature	CultureBridge ✅	Generic AI ❌
