@@ -30,7 +30,7 @@ Hosting	Lovable (with custom domain)
 
 🚀 Getting Started
 # Clone the project
-git clone https://github.com/yourusername/culturebridge.git
+git clone https://github.com/tej949/culturebridge.git
 cd culturebridge
 
 # Install dependencies
